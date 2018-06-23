@@ -1,0 +1,39 @@
+﻿body {
+	font-size: 12px;
+	color: #000000;
+}
+td {
+	font-size: 12px;
+	color: #000000;
+}
+.h1 {
+	font-family: "黑体";
+	font-size: 14px;
+	font-weight: bold;
+	color: #FFFFFF;
+}
+.h2 {
+	font-family: "黑体";
+	font-size: 14px;
+	font-weight: bold;
+	color: #ff6600;
+}
+.h3 {
+	font-size: 12px;
+	font-weight: bold;
+	color: #FFFFFF;
+}
+.h4 {
+	font-size: 14px;
+	font-weight: bold;
+	color: #003399;
+}
+.h5 {
+	font-size: 12px;
+	color: #FFFFFF;
+}
+.h6 {
+	font-size: 12px;
+	font-weight: bold;
+	color: #003399;
+}
